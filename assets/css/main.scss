@@ -137,3 +137,27 @@
   border-radius: 6px;
   padding: 0.05rem 0.5rem;
 }
+
+.project {
+  margin-bottom: 2.5rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid #eee;
+}
+
+.project:last-child {
+  border-bottom: none;
+}
+
+.project h2 {
+  margin-bottom: 0.2rem;
+}
+
+.project-meta {
+  font-size: 0.85em;
+  color: #6a6a6a;
+  margin: 0 0 0.8rem 0;
+}
+
+.project ul {
+  margin-top: 0.5rem;
+}
