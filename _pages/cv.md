@@ -5,35 +5,69 @@ permalink: /cv/
 author_profile: true
 ---
 
-<h2>Education</h2>
-<ul>
-  <li><strong>M.S. in Electrical and Electronic Engineering</strong>, Yonsei University, Mar. 2025 – Feb. 2027 (expected)<br>
-  Advisor: Prof. Jong-Moon Chung (Communications &amp; Networking Laboratory)</li>
-  <li><strong>B.S. in Electrical and Electronic Engineering</strong>, Yonsei University, Mar. 2019 – Feb. 2025</li>
-</ul>
+📄 [Download CV (PDF)](/files/Junwon_Kim_CV.pdf)
 
-<h2>Publications</h2>
-<ol>
-  <li><strong>J. Kim</strong>, M. Choi, and J.-M. Chung, “GT-PAR: Graph Transformer-Aided Traffic Prediction and Adaptive Routing for Dynamic LEO Satellite Networks,” <em>IEEE Wireless Communications Letters</em>, vol. 15, pp. 4290–4294, Jul. 2026.</li>
-  <li>M. Choi, M. Park, <strong>J. Kim</strong>, and J.-M. Chung, “Intelligent Handover Scheme for Improved 6G NTN LEO Satellite Network Performance,” <em>IEEE Transactions on Mobile Computing</em>, vol. 25, no. 5, pp. 6863–6880, May 2026.</li>
-  <li><strong>J. Kim</strong> and J.-M. Chung, “Object Detection Robustness of UAV-MEC YOLO Split Computing under Signal Quality Degradation,” <em>Proc. 2026 Spring Conf. of KIECS</em>, Jun. 2026. (Outstanding Paper Award)</li>
-</ol>
+## Education
 
-<h2>Honors &amp; Awards</h2>
-<ul>
-  <li>Outstanding Presentation Award, 8th Industry–Academia Project Showcase, Yonsei University, Jul. 2026</li>
-  <li>Outstanding Paper Award, 2026 Spring Conference of KIECS, Jun. 2026</li>
-  <li>Teaching Assistant Scholarship, Yonsei University, Fall 2025 &amp; Spring 2026</li>
-</ul>
+- **M.S. in Electrical and Electronic Engineering**, Mar. 2025 – Feb. 2027 (expected)
+    * Yonsei University, Seoul, Republic of Korea
+    * Advisor: Prof. Jong-Moon Chung, Communications & Networking Laboratory (CNL)
+- **B.S. in Electrical and Electronic Engineering**, Mar. 2019 – Feb. 2025
+    * Yonsei University, Seoul, Republic of Korea
 
-<h2>Research Experience</h2>
-<ul>
-  <li><strong>Graduate Research Assistant</strong>, Communications &amp; Networking Laboratory (CNL), Yonsei University, Mar. 2025 – Present — learning-based handover and routing for 6G NTN/LEO satellite networks</li>
-  <li><strong>Research Intern</strong>, CNL, Yonsei University, Jul. 2024 – Feb. 2025 — learning-based network optimization for satellite and UAV networks</li>
-  <li><strong>Research Intern (Undergraduate Thesis)</strong>, Robotic &amp; Mobile Networks Laboratory (RAMO), Yonsei University, Jan. 2024 – Jun. 2024 — URLLC remote robot control over a private 5G MEC system</li>
-</ul>
+## Research Interests
 
-<h2>Skills</h2>
-<p>Python, C/C++, MATLAB, Verilog · PyTorch · OMNeT++, SimuLTE, Veins/SUMO, Mininet, Wireshark</p>
+Machine Learning for Wireless Networks, Network Optimization and Resource Allocation, Multi-access Edge Computing, Reinforcement Learning and Transformer-based Models, 6G Non-Terrestrial Networks (NTN)
 
-<p class="cv-download">📄 <a href="/files/Junwon_Kim_CV.pdf">Download full CV (PDF)</a> — includes teaching experience, projects, and service.</p>
+## Publications
+
+1. **J. Kim**, M. Choi, and J.-M. Chung, "GT-PAR: Graph Transformer-Aided Traffic Prediction and Adaptive Routing for Dynamic LEO Satellite Networks," *IEEE Wireless Communications Letters*, vol. 15, pp. 4290–4294, Jul. 2026.
+2. M. Choi, M. Park, **J. Kim**, and J.-M. Chung, "Intelligent Handover Scheme for Improved 6G NTN LEO Satellite Network Performance," *IEEE Transactions on Mobile Computing*, vol. 25, no. 5, pp. 6863–6880, May 2026.
+3. **J. Kim** and J.-M. Chung, "Object Detection Robustness of UAV-MEC YOLO Split Computing under Signal Quality Degradation," *Proc. 2026 Spring Conf. of the Korea Institute of Electronic Communication Sciences (KIECS)*, Jun. 2026. **(Outstanding Paper Award)**
+
+## Research Experience
+
+- **Communications & Networking Laboratory (CNL), Yonsei University**, Mar. 2025 – Present
+    * **Graduate Research Assistant** (Advisor: Prof. Jong-Moon Chung)
+    * Learning-based handover and routing for 6G NTN/LEO satellite networks: reinforcement-learning handover policies evaluated through large-scale network simulation, and GT-PAR, a graph-transformer framework for joint traffic prediction and adaptive routing (first author)
+- **Communications & Networking Laboratory (CNL), Yonsei University**, Jul. 2024 – Feb. 2025
+    * **Research Intern**
+    * Learning-based network optimization for satellite and UAV networks; implemented and benchmarked handover and routing schemes through network simulation
+- **Robotic & Mobile Networks Laboratory (RAMO), Yonsei University**, Jan. 2024 – Jun. 2024
+    * **Research Intern, Undergraduate Thesis** (Advisor: Prof. Seonglyun Kim)
+    * Implemented robot vision inference offloading and URLLC remote robot control on a private 5G MEC testbed, with a real-time safety mechanism that halts and resumes the robot upon object intrusion
+
+## Selected Projects
+
+- **Adaptive UAV–MEC Collaborative Inference for Urban Traffic Monitoring**, Mar. 2026 – Jul. 2026
+    * UAV–MEC split-computing pipeline for real-time object detection, robust under poor wireless channels
+    * Outstanding Presentation Award, 8th Industry–Academia Project Showcase, Future Mobility Program, Yonsei University
+- **UAV-Based Dynamic Object Recognition for Digital Land-Information Mapping**, Jan. 2025 – Present
+    * Research Assistant, Ministry of Land, Infrastructure and Transport (MOLIT)-funded national R&D program
+    * Deep learning-based detection of road objects from UAV aerial imagery; met accuracy and latency targets in official certification testing
+
+## Honors & Awards
+
+- **Outstanding Presentation Award**, Jul. 2026
+    * 8th Industry–Academia Project Showcase, Future Mobility Program, Yonsei University
+- **Outstanding Paper Award**, Jun. 2026
+    * 2026 Spring Conference of the Korea Institute of Electronic Communication Sciences (KIECS)
+- **Teaching Assistant Scholarship**, Fall 2025 & Spring 2026
+    * Yonsei University
+
+## Teaching Experience
+
+- **Teaching Assistant, Introduction to Electrical and Computer Engineering (ECE 101)**, Spring 2026
+    * Yonsei University — 370-student introductory course on emerging AI, networking, and security technologies
+- **Teaching Assistant, Experiments on Communication Networks**, Fall 2025
+    * Yonsei University — hands-on labs on packet analysis, spectrum sensing, SDN routing, and LTE/V2X simulation
+
+## Skills
+
+- **Programming**: Python, C/C++, MATLAB, Verilog
+- **ML & Simulation**: PyTorch; OMNeT++, SimuLTE, Veins/SUMO, Mininet, Wireshark
+- **Certification**: Class III Unmanned Multirotor Pilot Certificate, Republic of Korea
+
+---
+
+📄 [Download CV (PDF)](/files/Junwon_Kim_CV.pdf) — full version including leadership and service.
