@@ -8,7 +8,7 @@ author_profile: true
 <h2>Education</h2>
 <ul>
   <li><strong>M.S. in Electrical and Electronic Engineering</strong>, Yonsei University, Mar. 2025 – Feb. 2027 (expected)<br>
-  Advisor: Prof. Jong-Moon Chung (Communications &amp; Networking Laboratory) · GPA 4.11/4.3</li>
+  Advisor: Prof. Jong-Moon Chung (Communications &amp; Networking Laboratory)</li>
   <li><strong>B.S. in Electrical and Electronic Engineering</strong>, Yonsei University, Mar. 2019 – Feb. 2025</li>
 </ul>
 
