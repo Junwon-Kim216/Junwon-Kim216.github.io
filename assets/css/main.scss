@@ -120,3 +120,20 @@
     width: 100%;
   }
 }
+
+.pub-list li {
+  margin-bottom: 1rem;
+  line-height: 1.6;
+}
+
+.pub-award {
+  display: inline-block;
+  margin-left: 0.3rem;
+  font-size: 0.85em;
+  font-weight: 700;
+  color: #8a6d1a;
+  background: #fdf6e3;
+  border: 1px solid #e8d9a0;
+  border-radius: 6px;
+  padding: 0.05rem 0.5rem;
+}
