@@ -33,22 +33,22 @@ redirect_from:
 
     <div class="news-item">
       <span class="news-date">JUL 2026</span>
-      <p>Our paper “GT-PAR” has been published in <strong>IEEE Wireless Communications Letters</strong>.</p>
+      <p>Paper published in <strong>IEEE Wireless Communications Letters</strong>: <em>GT-PAR: Graph Transformer-Aided Traffic Prediction and Adaptive Routing for Dynamic LEO Satellite Networks</em> (first author).</p>
     </div>
 
     <div class="news-item">
       <span class="news-date">JUL 2026</span>
-      <p>Received the <strong>Outstanding Presentation Award</strong> at the 8th Industry–Academia Project Showcase (Future Mobility Program, Yonsei University).</p>
+      <p><strong>Outstanding Presentation Award</strong>, 8th Industry–Academia Project Showcase, Yonsei University.</p>
     </div>
 
     <div class="news-item">
       <span class="news-date">JUN 2026</span>
-      <p>Our paper on UAV–MEC split computing received the <strong>Outstanding Paper Award</strong> at the <strong>2026 Spring Conference of KIECS</strong>.</p>
+      <p><strong>Outstanding Paper Award</strong>, 2026 Spring Conference of KIECS.</p>
     </div>
 
     <div class="news-item">
       <span class="news-date">DEC 2025</span>
-      <p>Our paper on intelligent handover for 6G NTN LEO satellite networks has been published in <strong>IEEE Transactions on Mobile Computing</strong>.</p>
+      <p>Paper published in <strong>IEEE Transactions on Mobile Computing</strong>: <em>Intelligent Handover Scheme for Improved 6G NTN LEO Satellite Network Performance</em>.</p>
     </div>
   </aside>
 </div>
