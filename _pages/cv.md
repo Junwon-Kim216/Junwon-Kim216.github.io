@@ -5,6 +5,11 @@ permalink: /cv/
 author_profile: true
 ---
 
+<style>
+  .page__content h2 { font-size: 1.65em; }
+  .page__content h3 { font-size: 1.3em; }
+</style>
+
 📄 [Download CV (PDF)](/files/Junwon_Kim_CV.pdf)
 
 ## Education
