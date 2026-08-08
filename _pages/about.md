@@ -11,15 +11,15 @@ redirect_from:
   <div class="about-main">
     <p>I am an M.S. student in Electrical and Electronic Engineering at Yonsei University, advised by Prof. Jong-Moon Chung in the Communications &amp; Networking Laboratory (CNL). My research focuses on <strong>next-generation wireless communication and AI</strong> — using machine learning to make wireless networks adaptive and intelligent. <strong>I am applying to Ph.D. programs in ECE/CS for Fall 2027.</strong></p>
 
-<div class="research-tags" aria-label="Research interests">
-  <span class="research-tag">ML for Wireless</span>
-  <span class="research-tag">6G · NextG Networks</span>
-  <span class="research-tag">LEO · NTN Satellite Networks</span>
-  <span class="research-tag">Network Resource Allocation</span>
-  <span class="research-tag">Multi-access Edge Computing</span>
-  <span class="research-tag">Reinforcement Learning</span>
-  <span class="research-tag">Private 5G Testbeds</span>
-</div>
+    <div class="tag-chips">
+      <span class="chip">ML for Wireless</span>
+      <span class="chip">6G / NextG Networks</span>
+      <span class="chip">LEO / NTN Satellite Networks</span>
+      <span class="chip">Network Resource Allocation</span>
+      <span class="chip">Multi-access Edge Computing</span>
+      <span class="chip">Reinforcement Learning</span>
+      <span class="chip">Private 5G Testbeds</span>
+    </div>
 
     <h2>Research Focus</h2>
     <ul>
@@ -30,26 +30,26 @@ redirect_from:
     </ul>
   </div>
 
-  <aside class="news-card" aria-labelledby="news-heading">
-    <h2 id="news-heading">📢 News</h2>
+  <aside class="news-card">
+    <h2>📢 News</h2>
 
-    <div class="news-entry">
-      <div class="news-date">JUL 2026</div>
+    <div class="news-item">
+      <span class="news-date">JUL 2026</span>
       <p>Our paper “GT-PAR” has been published in <strong>IEEE Wireless Communications Letters</strong>.</p>
     </div>
 
-    <div class="news-entry">
-      <div class="news-date">JUL 2026</div>
+    <div class="news-item">
+      <span class="news-date">JUL 2026</span>
       <p>Received the <strong>Outstanding Presentation Award</strong> at the 8th Industry–Academia Project Showcase (Future Mobility Program, Yonsei University).</p>
     </div>
 
-    <div class="news-entry">
-      <div class="news-date">JUN 2026</div>
+    <div class="news-item">
+      <span class="news-date">JUN 2026</span>
       <p>Our paper on UAV–MEC split computing received the <strong>Outstanding Paper Award</strong> at the <strong>2026 Spring Conference of KIECS</strong>.</p>
     </div>
 
-    <div class="news-entry">
-      <div class="news-date">DEC 2025</div>
+    <div class="news-item">
+      <span class="news-date">DEC 2025</span>
       <p>Our paper on intelligent handover for 6G NTN LEO satellite networks has been published in <strong>IEEE Transactions on Mobile Computing</strong>.</p>
     </div>
   </aside>

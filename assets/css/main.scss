@@ -35,6 +35,88 @@
     "layout/page",
     "layout/archive",
     "layout/sidebar",
-    "layout/about",
     "layout/json_cv"
 ;
+
+/* About page: main content and news sidebar. */
+.about-flex {
+  display: flex;
+  gap: 2rem;
+  align-items: flex-start;
+}
+
+.about-main {
+  flex: 1 1 0;
+  min-width: 0;
+}
+
+.news-card {
+  flex: 0 0 280px;
+  border: 1px solid #e0e0e0;
+  border-radius: 10px;
+  padding: 1rem 1.25rem;
+  font-size: 0.85em;
+}
+
+.news-card h2 {
+  margin-top: 0;
+  font-size: 1.1em;
+  border-bottom: none;
+}
+
+.news-item {
+  padding: 0.6rem 0;
+  border-bottom: 1px solid #eee;
+}
+
+.news-item:last-child {
+  border-bottom: none;
+}
+
+.news-date {
+  display: block;
+  font-weight: 700;
+  font-size: 0.8em;
+  letter-spacing: 0.5px;
+  color: #4a6b8a;
+  margin-bottom: 0.15rem;
+}
+
+.news-item p {
+  margin: 0;
+}
+
+.tag-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin: 1rem 0 0.5rem;
+}
+
+.chip {
+  display: inline-flex;
+  border: 1px solid #b8cdd9;
+  border-radius: 999px;
+  padding: 0.15rem 0.7rem;
+  font-size: 0.8em;
+  color: #2c5266;
+  background: #f4f9fb;
+  white-space: nowrap;
+}
+
+@media screen and (min-width: 1025px) {
+  #main > .page:has(.about-flex) {
+    padding-right: 0;
+  }
+}
+
+@media (max-width: 1024px) {
+  .about-flex {
+    flex-direction: column;
+  }
+
+  .news-card {
+    flex: none;
+    width: 100%;
+  }
+}
