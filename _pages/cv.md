@@ -21,9 +21,14 @@ Machine Learning for Wireless Networks, Network Optimization and Resource Alloca
 
 ## Publications
 
+### Journal Articles
+
 1. **J. Kim**, M. Choi, and J.-M. Chung, "GT-PAR: Graph Transformer-Aided Traffic Prediction and Adaptive Routing for Dynamic LEO Satellite Networks," *IEEE Wireless Communications Letters*, vol. 15, pp. 4290–4294, Jul. 2026.
 2. M. Choi, M. Park, **J. Kim**, and J.-M. Chung, "Intelligent Handover Scheme for Improved 6G NTN LEO Satellite Network Performance," *IEEE Transactions on Mobile Computing*, vol. 25, no. 5, pp. 6863–6880, May 2026.
-3. **J. Kim** and J.-M. Chung, "Object Detection Robustness of UAV-MEC YOLO Split Computing under Signal Quality Degradation," *Proc. 2026 Spring Conf. of the Korea Institute of Electronic Communication Sciences (KIECS)*, Jun. 2026. **(Outstanding Paper Award)**
+
+### Conference Papers
+
+1. **J. Kim** and J.-M. Chung, "Object Detection Robustness of UAV-MEC YOLO Split Computing under Signal Quality Degradation," *Proc. 2026 Spring Conf. of the Korea Institute of Electronic Communication Sciences (KIECS)*, Jun. 2026. **(Outstanding Paper Award)**
 
 ## Research Experience
 
