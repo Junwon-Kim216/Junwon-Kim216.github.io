@@ -10,8 +10,6 @@ author_profile: true
   .page__content h3 { font-size: 1.3em; }
 </style>
 
-📄 [Download CV (PDF)](/files/Junwon_Kim_CV.pdf)
-
 ## Education
 
 - **M.S. in Electrical and Electronic Engineering**, Mar. 2025 – Feb. 2027 (expected)
