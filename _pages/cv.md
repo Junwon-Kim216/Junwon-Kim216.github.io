@@ -5,8 +5,6 @@ permalink: /cv/
 author_profile: true
 ---
 
-<p class="cv-download">📄 <a href="/files/Junwon_Kim_CV.pdf">Download full CV (PDF)</a></p>
-
 <h2>Education</h2>
 <ul>
   <li><strong>M.S. in Electrical and Electronic Engineering</strong>, Yonsei University, Mar. 2025 – Feb. 2027 (expected)<br>
