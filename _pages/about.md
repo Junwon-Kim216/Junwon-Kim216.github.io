@@ -12,13 +12,11 @@ redirect_from:
     <p>I am an M.S. student in Electrical and Electronic Engineering at Yonsei University, advised by Prof. Jong-Moon Chung in the Communications &amp; Networking Laboratory (CNL). My research focuses on <strong>next-generation wireless communication and AI</strong> — using machine learning to make wireless networks adaptive and intelligent. <strong>I am applying to Ph.D. programs in ECE/CS for Fall 2027.</strong></p>
 
     <div class="tag-chips">
-      <span class="chip">ML for Wireless</span>
-      <span class="chip">6G / NextG Networks</span>
-      <span class="chip">LEO / NTN Satellite Networks</span>
+      <span class="chip">Machine Learning for Wireless Networks</span>
+      <span class="chip">Next-Generation Networks</span>
       <span class="chip">Network Resource Allocation</span>
       <span class="chip">Multi-access Edge Computing</span>
-      <span class="chip">Reinforcement Learning</span>
-      <span class="chip">Private 5G Testbeds</span>
+      <span class="chip">Non-Terrestrial Networks</span>
     </div>
 
     <h2>Research Focus</h2>
