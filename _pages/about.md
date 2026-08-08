@@ -7,11 +7,50 @@ redirect_from:
   - /about.html
 ---
 
-I am an M.S. student in Electrical and Electronic Engineering at Yonsei University, advised by Prof. Jong-Moon Chung in the Communications & Networking Laboratory (CNL). I work on machine learning for wireless communications and 6G enabling technologies — building learning-based routing, resource allocation, and edge computing systems that keep networks adaptive under dynamic conditions, from LEO satellite constellations to UAV–edge systems. **I am applying to Ph.D. programs in ECE/CS for Fall 2027.**
+<div class="about-flex">
+  <div class="about-main">
+    <p>I am an M.S. student in Electrical and Electronic Engineering at Yonsei University, advised by Prof. Jong-Moon Chung in the Communications &amp; Networking Laboratory (CNL). My research focuses on <strong>next-generation wireless communication and AI</strong> — using machine learning to make wireless networks adaptive and intelligent. <strong>I am applying to Ph.D. programs in ECE/CS for Fall 2027.</strong></p>
 
-## News
+<div class="research-tags" aria-label="Research interests">
+  <span class="research-tag">ML for Wireless</span>
+  <span class="research-tag">6G · NextG Networks</span>
+  <span class="research-tag">LEO · NTN Satellite Networks</span>
+  <span class="research-tag">Network Resource Allocation</span>
+  <span class="research-tag">Multi-access Edge Computing</span>
+  <span class="research-tag">Reinforcement Learning</span>
+  <span class="research-tag">Private 5G Testbeds</span>
+</div>
 
-- Jul 27, 2026 — Our paper "GT-PAR: Graph Transformer-Aided Traffic Prediction and Adaptive Routing for Dynamic LEO Satellite Networks" has been published in IEEE Wireless Communications Letters.
-- Jul 15, 2026 — Received the Outstanding Presentation Award at the 8th Industry–Academia Project Showcase (Future Mobility Program, Yonsei University).
-- Jun 15, 2026 — Our paper on UAV–MEC split computing received the Outstanding Paper Award at the 2026 Spring Conference of KIECS.
-- Dec 10, 2025 — Our paper "Intelligent Handover Scheme for Improved 6G NTN LEO Satellite Network Performance" has been published in IEEE Transactions on Mobile Computing.
+    <h2>Research Focus</h2>
+    <ul>
+      <li><strong>Learning-based network control</strong> — Machine learning for routing, handover, and network control in dynamic wireless environments, from LEO satellite constellations to UAV networks</li>
+      <li><strong>Network resource allocation &amp; optimization</strong> — Intelligent scheduling and resource management for next-generation (5G/6G) networks</li>
+      <li><strong>Multi-access edge computing (MEC)</strong> — Distributing AI inference and computation across devices, edge, and network for real-time, low-latency services</li>
+      <li><strong>AI on real wireless systems</strong> — Validating learning-based methods beyond simulation, on private 5G testbeds and UAV platforms</li>
+    </ul>
+  </div>
+
+  <aside class="news-card" aria-labelledby="news-heading">
+    <h2 id="news-heading">📢 News</h2>
+
+    <div class="news-entry">
+      <div class="news-date">JUL 2026</div>
+      <p>Our paper “GT-PAR” has been published in <strong>IEEE Wireless Communications Letters</strong>.</p>
+    </div>
+
+    <div class="news-entry">
+      <div class="news-date">JUL 2026</div>
+      <p>Received the <strong>Outstanding Presentation Award</strong> at the 8th Industry–Academia Project Showcase (Future Mobility Program, Yonsei University).</p>
+    </div>
+
+    <div class="news-entry">
+      <div class="news-date">JUN 2026</div>
+      <p>Our paper on UAV–MEC split computing received the <strong>Outstanding Paper Award</strong> at the <strong>2026 Spring Conference of KIECS</strong>.</p>
+    </div>
+
+    <div class="news-entry">
+      <div class="news-date">DEC 2025</div>
+      <p>Our paper on intelligent handover for 6G NTN LEO satellite networks has been published in <strong>IEEE Transactions on Mobile Computing</strong>.</p>
+    </div>
+  </aside>
+</div>

@@ -1,0 +1,83 @@
+/* Homepage-specific three-column layout: author profile, main copy, and news. */
+.about-flex {
+  display: flex;
+  gap: 2rem;
+  align-items: flex-start;
+}
+
+.about-main {
+  flex: 1 1 0;
+  min-width: 0;
+}
+
+.research-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin: 1.25rem 0 1.75rem;
+}
+
+.research-tag {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.25rem 0.65rem;
+  border: 1px solid var(--global-border-color);
+  border-radius: 999px;
+  color: var(--global-text-color-light);
+  font-family: $sans-serif;
+  font-size: $type-size-7;
+  line-height: 1.35;
+}
+
+.news-card {
+  flex: 0 0 280px;
+  padding: 1.15rem 1.25rem;
+  border: 1px solid var(--global-border-color);
+  border-radius: 10px;
+  background: var(--global-bg-color);
+
+  h2 {
+    margin: 0 0 0.35rem;
+    padding-bottom: 0.75rem;
+    font-size: $type-size-5;
+  }
+}
+
+.news-entry {
+  padding: 0.9rem 0;
+  border-top: 1px solid var(--global-border-color);
+
+  p {
+    margin: 0.2rem 0 0;
+    font-size: $type-size-7;
+    line-height: 1.5;
+  }
+}
+
+.news-date {
+  color: var(--global-link-color);
+  font-family: $sans-serif;
+  font-size: 0.68em;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  line-height: 1.2;
+  text-transform: uppercase;
+}
+
+@media screen and (min-width: 1024px) {
+  /* Reclaim the theme's reserved right gutter on this page only. */
+  #main > .page:has(.about-flex) {
+    padding-right: 0;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .about-flex {
+    flex-direction: column;
+  }
+
+  .news-card {
+    flex-basis: auto;
+    width: 100%;
+  }
+}
